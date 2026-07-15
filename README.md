@@ -14,9 +14,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" style="margin:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" style="margin:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" style="margin:10px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" style="margin:10px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" style="margin:10px"/>
-<p><b>JavaScript • TypeScript • React • Redux • TailwindCSS • Vite</b></p>
+<p><b>JavaScript • TypeScript • React • TailwindCSS • Vite</b></p>
 
 ### ⚙️ Backend & Database
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" style="margin:10px"/>
