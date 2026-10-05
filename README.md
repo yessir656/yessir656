@@ -18,12 +18,17 @@
 <p><b>JavaScript • TypeScript • React • TailwindCSS • Vite</b></p>
 
 ### ⚙️ Backend & Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" style="margin:10px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" style="margin:10px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin:10px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" style="margin:10px"/>
-<p><b>PHP • Laravel • NodeJS • MySQL • Supabase</b></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" style="margin:10px"/>
+  <img src="https://jsdelivr.net" height="45" style="margin:10px"/>
+  <img src="https://jsdelivr.net" height="45" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin:10px"/>
+  <img src="https://jsdelivr.net" height="45" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45" style="margin:10px"/>
+  <p><b>PHP • Laravel • Node.js • Bun • MySQL • SQLite • Supabase</b></p>
 </div>
+
 
 ## 📊 GitHub Stats
 <div align="center">
